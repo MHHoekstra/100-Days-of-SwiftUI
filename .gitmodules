@@ -1,3 +1,6 @@
 [submodule "Converter"]
 	path = Converter
 	url = ./Converter
+[submodule "BetterRest"]
+	path = BetterRest
+	url = ./BetterRest
